@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm TajimOmaer.
 
-<!--
-**Tajim-Omaer/Tajim-Omaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 I'm a CSE Student.
+- 📖 I'm study at "GREEN UNIVERSITY OF BANGLADESH".
+- 👌 Im interested in learning programming languages.
+- 🤹 Skills: C / C++ / java / html
+- 🔭 I’m currently working on Carear developing.  
+- 🌱 I’m currently learning Java Programming.
+- - 🤔 I’m looking for help with my friends.
+- 📫 How to reach me: tajimomaer29@gmail.com
+- - ⚡ Fun fact: I don't know I'm funny or not.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
